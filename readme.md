@@ -15,12 +15,11 @@
 
 ## 项目说明
 
-- 仓库：[tour](http://git.imweb.io/imweb-teacher/tour)
 - 目标：将一个游记文章转成我们所学的 HTML 文件。
 
 鉴于你可能还有点迷茫，我们把大概步骤说明如下：
 
-- 先打开仓库 [tour](http://git.imweb.io/imweb-teacher/tour)，fork 一份到你的仓库，然后 clone 到你本地，进行编辑。具体操作请参考前面的项目提交流程
+- 先进入项目，fork 一份到你的仓库，然后 clone 到你本地，进行编辑。具体操作请参考前面的项目提交流程
 - 使用编辑器（sublime text），新建一个“index.html”（具体可参考“从零开始新建文件”这一节内容）
 - 将我们pdf的游记文章转成 HTML 文件，主要涉及了标题，段落，链接，列表，图片等
 
